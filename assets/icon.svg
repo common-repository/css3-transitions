@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" baseProfile="full" width="96" height="96" viewBox="0 0 96.00 96.00" enable-background="new 0 0 96.00 96.00" xml:space="preserve">
+	<linearGradient id="SVGID_Fill1_" gradientUnits="objectBoundingBox" x1="0.854934" y1="0.145066" x2="1.85884" y2="0.145066" gradientTransform="rotate(135.000000 0.854934 0.145066)">
+		<stop offset="0" stop-color="#5F00D9" stop-opacity="1"/>
+		<stop offset="1" stop-color="#00FF38" stop-opacity="1"/>
+	</linearGradient>
+	<rect x="0" y="7.62939e-006" fill="url(#SVGID_Fill1_)" stroke-width="0.375" stroke-linejoin="round" width="96" height="96"/>
+	<path fill="#FFFFFF" fill-opacity="1" stroke-width="0.375" stroke-linejoin="round" d="M 12,72L 66,18L 78,30L 24,84L 12,72 Z "/>
+	<path fill="#FFFFFF" fill-opacity="1" stroke-width="0.375" stroke-linejoin="round" d="M 84,48L 84,12L 48,12L 84,48 Z "/>
+	<path fill="#FFFFFF" fill-opacity="1" stroke-width="0.375" stroke-linejoin="round" d="M 84,48L 48,12L 60,36L 84,48 Z "/>
+	<path fill="#FFFFFF" fill-opacity="1" stroke-width="0.375" stroke-linejoin="round" d="M 24,84L 12,72L 12,84L 24,84 Z "/>
+</svg>
